@@ -40,4 +40,4 @@ You are free to internally represent numbers in any way you wish, but the inputs
 
 ## Submission
 
-TODO
+Please make a private fork of this repository and give us access to it once you're done.
