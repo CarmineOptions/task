@@ -14,7 +14,7 @@ The empire is always entitled to **at least** one $\pi$-th of **total all-time**
 Rudolph doesn't want to leave any space for shenanigans by the empire's constituent kingdoms and will cut your head off if the contract doesn't always ascribe to the empire *at least* as many *felts* as it is entitled to according to the formula above like this:
 
 - taxmen collect 10 *felts* in taxes. Since $10/{\pi} \approx 3.183$, he expects to receive precisely 4 *felts*.
-- taxmen collect 314159 *felts*. Since $314159/{\pi} \approx 99999.9$, he is entitled to 10000 *felts*.
+- taxmen collect 314159 *felts*. Since $314159/{\pi} \approx 99999.9$, he is entitled to 100000 *felts*.
 - taxmen collect 1 *felt* in taxes. He wants it all or else you shall be executed.
 
 ---
